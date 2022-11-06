@@ -1,0 +1,4 @@
+name: unloadEntity
+version: '${version}'
+main: marumasa.unload_entity.minecraft
+api-version: 1.19
